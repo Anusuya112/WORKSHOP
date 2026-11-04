@@ -1,0 +1,55 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/ishwa/OneDrive/Documents/FPGA/MODELSIM/PROJECT/FULL ADDER 4 BIT
+vfull_adder4
+Z1 !s110 1793715907
+!i10b 1
+!s100 8^k8A5a`BC2M9kK^`Sz?L3
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Igi9H^jUCA1ji`e`a?heQ22
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1793438919
+8full_adder4.v
+Ffull_adder4.v
+!i122 2
+L0 3 15
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1793715907.000000
+!s107 full_adder4.v|full_adder4_tb.v|
+Z6 !s90 -reportprogress|300|full_adder4_tb.v|full_adder4.v|
+!i113 1
+Z7 tCvgOpt 0
+vfull_adder4_tb
+R1
+!i10b 1
+!s100 FLcf[7Oj`2jb]f`A13@Wl2
+R2
+I1U8>SmJUU>li<GMVe<@7c0
+R3
+R0
+w1793438931
+8full_adder4_tb.v
+Ffull_adder4_tb.v
+!i122 2
+L0 3 73
+R4
+r1
+!s85 0
+31
+R5
+Z8 !s107 full_adder4.v|full_adder4_tb.v|
+R6
+!i113 1
+R7
