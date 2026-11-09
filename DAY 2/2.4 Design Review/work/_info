@@ -1,0 +1,55 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/ishwa/OneDrive/Documents/VERILOG RTL AND RISC-V PRACTICE ACTIVITIES/DAY 2/2.4 Design Review
+vfsm_design
+Z1 !s110 1794139883
+!i10b 1
+!s100 OP4N0@T]f5?z:6Ic_8A=k1
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+ISIY]Fmg=8<_J;^803=zQ60
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z4 w1794069676
+8fsm_design.v
+Ffsm_design.v
+!i122 1
+L0 1 36
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1794139883.000000
+!s107 fsm_design.v|fsm_design_tb.v|
+Z7 !s90 -reportprogress|300|fsm_design_tb.v|fsm_design.v|
+!i113 1
+Z8 tCvgOpt 0
+vfsm_design_tb
+R1
+!i10b 1
+!s100 LcW8AYceUT:lz5=gK`OPg3
+R2
+IR9zQzh^IIYYel]XbL^GzD1
+R3
+R0
+R4
+8fsm_design_tb.v
+Ffsm_design_tb.v
+!i122 1
+L0 2 20
+R5
+r1
+!s85 0
+31
+R6
+Z9 !s107 fsm_design.v|fsm_design_tb.v|
+R7
+!i113 1
+R8

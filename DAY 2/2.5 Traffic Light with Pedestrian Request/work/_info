@@ -1,0 +1,55 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/ishwa/OneDrive/Documents/VERILOG RTL AND RISC-V PRACTICE ACTIVITIES/DAY 2/2.5 Traffic Light with Pedestrian Request
+vtraffic_light
+Z1 !s110 1794140040
+!i10b 1
+!s100 FUmW[OSNdD_R]cTDn]Q4a3
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IOg?aM6_0@lc`nz4b[2[@52
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z4 w1794069676
+8traffic_light.v
+Ftraffic_light.v
+!i122 0
+L0 1 35
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1794140040.000000
+!s107 traffic_light.v|traffic_light_tb.v|
+Z7 !s90 -reportprogress|300|traffic_light_tb.v|traffic_light.v|
+!i113 1
+Z8 tCvgOpt 0
+vtraffic_light_tb
+R1
+!i10b 1
+!s100 hdUBRakK>R8go0=TAzjGW3
+R2
+I`Y6DI=aUaaEdXaN32?T7N1
+R3
+R0
+R4
+8traffic_light_tb.v
+Ftraffic_light_tb.v
+!i122 0
+L0 2 18
+R5
+r1
+!s85 0
+31
+R6
+Z9 !s107 traffic_light.v|traffic_light_tb.v|
+R7
+!i113 1
+R8
