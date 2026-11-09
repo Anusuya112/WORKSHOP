@@ -1,0 +1,55 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/ishwa/OneDrive/Documents/VERILOG RTL AND RISC-V PRACTICE ACTIVITIES/Optional Challenges/Extra Pipeline Stages
+vpipeline_6stage
+Z1 !s110 1794155245
+!i10b 1
+!s100 N6[ScTa]L`Gcf6@;H^Za71
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I6;<ZcdGzZ1_ZI9=7cTM3_3
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z4 w1794134546
+8pipeline_6stage.v
+Fpipeline_6stage.v
+!i122 0
+L0 6 68
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1794155244.000000
+!s107 pipeline_6stage.v|pipeline_6stage_tb.v|
+Z7 !s90 -reportprogress|300|pipeline_6stage_tb.v|pipeline_6stage.v|
+!i113 1
+Z8 tCvgOpt 0
+vpipeline_6stage_tb
+R1
+!i10b 1
+!s100 8PeKJZAMjDZFa<j>zD5YA0
+R2
+IFQ[mhmBc8N[b^GGFX[D5_2
+R3
+R0
+R4
+8pipeline_6stage_tb.v
+Fpipeline_6stage_tb.v
+!i122 0
+L0 7 88
+R5
+r1
+!s85 0
+31
+R6
+Z9 !s107 pipeline_6stage.v|pipeline_6stage_tb.v|
+R7
+!i113 1
+R8

@@ -1,0 +1,55 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/ishwa/OneDrive/Documents/VERILOG RTL AND RISC-V PRACTICE ACTIVITIES/Optional Challenges/UART Transmitter
+vuart_tx
+Z1 !s110 1794155629
+!i10b 1
+!s100 WdK85jmbO`8Tf2hb_I:Lk3
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I9KRRPChc:?4foh9kE9]eB1
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z4 w1794134546
+8uart_tx.v
+Fuart_tx.v
+!i122 0
+L0 6 91
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1794155629.000000
+!s107 uart_tx.v|uart_tx_tb.v|
+Z7 !s90 -reportprogress|300|uart_tx_tb.v|uart_tx.v|
+!i113 1
+Z8 tCvgOpt 0
+vuart_tx_tb
+R1
+!i10b 1
+!s100 Sej2_cLda@FE4Az<cN^mP1
+R2
+IAdQ^54DAZ;a<hYM]PhGiI2
+R3
+R0
+R4
+8uart_tx_tb.v
+Fuart_tx_tb.v
+!i122 0
+L0 7 67
+R5
+r1
+!s85 0
+31
+R6
+Z9 !s107 uart_tx.v|uart_tx_tb.v|
+R7
+!i113 1
+R8
