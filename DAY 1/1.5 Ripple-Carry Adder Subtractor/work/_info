@@ -1,0 +1,77 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/ishwa/OneDrive/Documents/VERILOG RTL AND RISC-V PRACTICE ACTIVITIES/DAY 1/1.5 Ripple-Carry Adder Subtractor
+vadder_subtractor_tb
+Z1 !s110 1794138353
+!i10b 1
+!s100 7]9ITU:__eAJW[C]n7iU43
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I<YKD<:UX1A9fL1ABo^@Pi0
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1794059085
+8adder_subtractor_tb.v
+Fadder_subtractor_tb.v
+!i122 0
+L0 2 22
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1794138353.000000
+!s107 adder_subtractor.v|adder_subtractor_tb.v|
+Z6 !s90 -reportprogress|300|adder_subtractor_tb.v|adder_subtractor.v|
+!i113 1
+Z7 tCvgOpt 0
+vfull_adder
+R1
+!i10b 1
+!s100 UA>DCYWU4doA9E`gSF4]H1
+R2
+IA5Qhm2=co;R13S`:g`m2e1
+R3
+R0
+Z8 w1794059119
+Z9 8adder_subtractor.v
+Z10 Fadder_subtractor.v
+!i122 0
+L0 2 6
+R4
+r1
+!s85 0
+31
+R5
+Z11 !s107 adder_subtractor.v|adder_subtractor_tb.v|
+R6
+!i113 1
+R7
+vripple_adder_subtractor8
+R1
+!i10b 1
+!s100 L6dGAmVL?;zLKBTgfPmWH1
+R2
+I>_Z7eRPfSk=REWe^X<z7]3
+R3
+R0
+R8
+R9
+R10
+!i122 0
+L0 9 18
+R4
+r1
+!s85 0
+31
+R5
+R11
+R6
+!i113 1
+R7

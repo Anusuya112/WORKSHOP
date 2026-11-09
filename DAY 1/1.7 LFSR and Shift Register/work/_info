@@ -1,0 +1,77 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/ishwa/OneDrive/Documents/VERILOG RTL AND RISC-V PRACTICE ACTIVITIES/DAY 1/1.7 LFSR and Shift Register
+vlfsr8
+Z1 !s110 1794138738
+!i10b 1
+!s100 3NeRcen?dA_@JH4K4MIkT0
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I<3IUeik<j8a:i3XcKknY>0
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z4 w1794059242
+Z5 8shift_register_lfsr.v
+Z6 Fshift_register_lfsr.v
+!i122 0
+L0 20 12
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1794138738.000000
+!s107 shift_register_lfsr.v|shift_register_lfsr_tb.v|
+Z9 !s90 -reportprogress|300|shift_register_lfsr_tb.v|shift_register_lfsr.v|
+!i113 1
+Z10 tCvgOpt 0
+vshift_register_lfsr_tb
+R1
+!i10b 1
+!s100 G^gXBdJCX6m?nT57Y[jcW0
+R2
+I8Y4hzAHeeiVBZZA9Tb<NV0
+R3
+R0
+w1794059252
+8shift_register_lfsr_tb.v
+Fshift_register_lfsr_tb.v
+!i122 0
+L0 2 23
+R7
+r1
+!s85 0
+31
+R8
+Z11 !s107 shift_register_lfsr.v|shift_register_lfsr_tb.v|
+R9
+!i113 1
+R10
+vuniversal_shift_register8
+R1
+!i10b 1
+!s100 aTQdMRB7aX<Nm0147DfB=0
+R2
+I=7AbB0i4=[I@ICi7KehX>2
+R3
+R0
+R4
+R5
+R6
+!i122 0
+L0 2 17
+R7
+r1
+!s85 0
+31
+R8
+R11
+R9
+!i113 1
+R10

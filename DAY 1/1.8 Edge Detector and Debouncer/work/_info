@@ -1,0 +1,99 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/ishwa/OneDrive/Documents/VERILOG RTL AND RISC-V PRACTICE ACTIVITIES/DAY 1/1.8 Edge Detector and Debouncer
+vdebouncer
+Z1 !s110 1794138934
+!i10b 1
+!s100 T[U^9]6NRG<IMdL1<iK4m3
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+ImP>N5IQkFhn4H`=Q_LzZ80
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z4 w1794059274
+Z5 8input_conditioning.v
+Z6 Finput_conditioning.v
+!i122 0
+L0 24 17
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1794138934.000000
+!s107 input_conditioning.v|input_conditioning_tb.v|
+Z9 !s90 -reportprogress|300|input_conditioning_tb.v|input_conditioning.v|
+!i113 1
+Z10 tCvgOpt 0
+vinput_conditioning_tb
+R1
+!i10b 1
+!s100 SFBNz<RIVGW[`Q>9;58a61
+R2
+Im;ZUzOZF^ON2TQRi79AHK2
+R3
+R0
+w1794059285
+8input_conditioning_tb.v
+Finput_conditioning_tb.v
+!i122 0
+L0 2 20
+R7
+r1
+!s85 0
+31
+R8
+Z11 !s107 input_conditioning.v|input_conditioning_tb.v|
+R9
+!i113 1
+R10
+vrising_edge_detector
+R1
+!i10b 1
+!s100 [ONY0O3TZ^ie9Z6`^AddU1
+R2
+IdGQe1Y5E?M<Gn1niola2B2
+R3
+R0
+R4
+R5
+R6
+!i122 0
+L0 13 10
+R7
+r1
+!s85 0
+31
+R8
+R11
+R9
+!i113 1
+R10
+vsynchronizer2
+R1
+!i10b 1
+!s100 4L5biXHm<HdXn[>5BJ24N1
+R2
+IXjR^HS`U`>z0HIE18a^Jn1
+R3
+R0
+R4
+R5
+R6
+!i122 0
+L0 2 10
+R7
+r1
+!s85 0
+31
+R8
+R11
+R9
+!i113 1
+R10

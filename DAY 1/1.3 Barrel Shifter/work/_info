@@ -1,0 +1,55 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/ishwa/OneDrive/Documents/VERILOG RTL AND RISC-V PRACTICE ACTIVITIES/DAY 1/1.3 Barrel Shifter
+vbarrel_shifter32
+Z1 !s110 1794137718
+!i10b 1
+!s100 C4Q<oCZ]QhMi1igjcRY?<3
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I03L]KFk4>IBk<1UG_N6Hk1
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1794058968
+8barrel_shifter.v
+Fbarrel_shifter.v
+!i122 0
+L0 2 15
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1794137718.000000
+!s107 barrel_shifter.v|barrel_shifter_tb.v|
+Z6 !s90 -reportprogress|300|barrel_shifter_tb.v|barrel_shifter.v|
+!i113 1
+Z7 tCvgOpt 0
+vbarrel_shifter_tb
+R1
+!i10b 1
+!s100 f`UzZJf0Iz11?Ji>]hWA:2
+R2
+IKOM;<4k0=RSj2]AleS_X^1
+R3
+R0
+w1794058993
+8barrel_shifter_tb.v
+Fbarrel_shifter_tb.v
+!i122 0
+L0 2 27
+R4
+r1
+!s85 0
+31
+R5
+Z8 !s107 barrel_shifter.v|barrel_shifter_tb.v|
+R6
+!i113 1
+R7
