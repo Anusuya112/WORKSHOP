@@ -49,7 +49,7 @@ Day 4 – Pipeline Hazards, Analysis and Submission:
 
 Daily Completion Checklist:
 
-Day    Core Activities    Additional (At least 2)    Waveforms Saved    Git Commit Pushed
+Day    Core Activities,    Additional (At least 2),    Waveforms Saved,    Git Commit Pushed
 
 Day 1       [✓]                  [✓]                       [✓]                 [✓]
 Day 2       [✓]                  [✓]                       [✓]                 [✓]
