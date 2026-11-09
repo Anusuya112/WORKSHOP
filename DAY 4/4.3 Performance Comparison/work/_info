@@ -1,0 +1,55 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/ishwa/OneDrive/Documents/VERILOG RTL AND RISC-V PRACTICE ACTIVITIES/DAY 4/4.3 Performance Comparison
+vcpi_counter
+Z1 !s110 1794153440
+!i10b 1
+!s100 [BL3c=iNFUa@SUQV;7Z>z2
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Ign`;>jE5i60e6eInZoacC3
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z4 w1794069676
+8cpi_counter.v
+Fcpi_counter.v
+!i122 0
+L0 1 17
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1794153440.000000
+!s107 cpi_counter.v|cpi_counter_tb.v|
+Z7 !s90 -reportprogress|300|cpi_counter_tb.v|cpi_counter.v|
+!i113 1
+Z8 tCvgOpt 0
+vcpi_counter_tb
+R1
+!i10b 1
+!s100 @2kgdTnbDLSWlQcU6C5Sl1
+R2
+IAJ9RNUeW<DXK5o6Q@`ZWL0
+R3
+R0
+R4
+8cpi_counter_tb.v
+Fcpi_counter_tb.v
+!i122 0
+L0 2 23
+R5
+r1
+!s85 0
+31
+R6
+Z9 !s107 cpi_counter.v|cpi_counter_tb.v|
+R7
+!i113 1
+R8

@@ -1,0 +1,55 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/ishwa/OneDrive/Documents/VERILOG RTL AND RISC-V PRACTICE ACTIVITIES/DAY 4/4.2 Control Hazard Handling
+vpipeline_flush
+Z1 !s110 1794153242
+!i10b 1
+!s100 jQHAe:DNonAE^a1RRd]ed1
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I@CPl<Qa_15Il6fgY:Xn=j1
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z4 w1794069676
+8pipeline_flush.v
+Fpipeline_flush.v
+!i122 0
+L0 1 12
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1794153242.000000
+!s107 pipeline_flush.v|pipeline_flush_tb.v|
+Z7 !s90 -reportprogress|300|pipeline_flush_tb.v|pipeline_flush.v|
+!i113 1
+Z8 tCvgOpt 0
+vpipeline_flush_tb
+R1
+!i10b 1
+!s100 bHWLW`T:4jF_QZ9dH5lSX2
+R2
+IRDSCkCV?M^f9bU4ZVJ]Uf0
+R3
+R0
+R4
+8pipeline_flush_tb.v
+Fpipeline_flush_tb.v
+!i122 0
+L0 2 22
+R5
+r1
+!s85 0
+31
+R6
+Z9 !s107 pipeline_flush.v|pipeline_flush_tb.v|
+R7
+!i113 1
+R8
