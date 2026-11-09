@@ -1,0 +1,55 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/ishwa/OneDrive/Documents/VERILOG RTL AND RISC-V PRACTICE ACTIVITIES/DAY 3/3.4 Waveform Analysis
+vwaveform_monitor
+!s110 1794147876
+!i10b 1
+!s100 ?RoYbBdo@C7:]CQF2iRgM0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IK0G79of2m@M>^YKJ0HI3o0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1794069676
+8waveform_monitor.v
+Fwaveform_monitor.v
+!i122 0
+L0 1 11
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1794147875.000000
+!s107 waveform_monitor.v|waveform_monitor_tb.v|
+Z6 !s90 -reportprogress|300|waveform_monitor_tb.v|waveform_monitor.v|
+!i113 1
+Z7 tCvgOpt 0
+vwaveform_monitor_tb
+!s110 1794147875
+!i10b 1
+!s100 n>3eWE0:YeXY[SlSAG65P2
+R1
+IUDlkjna_Rz:k;^T]a]Zj[3
+R2
+R0
+R3
+8waveform_monitor_tb.v
+Fwaveform_monitor_tb.v
+!i122 0
+L0 2 16
+R4
+r1
+!s85 0
+31
+R5
+Z8 !s107 waveform_monitor.v|waveform_monitor_tb.v|
+R6
+!i113 1
+R7

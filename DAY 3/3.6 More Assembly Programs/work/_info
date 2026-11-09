@@ -1,0 +1,55 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/ishwa/OneDrive/Documents/VERILOG RTL AND RISC-V PRACTICE ACTIVITIES/DAY 3/3.6 More Assembly Programs
+varithmetic_units
+Z1 !s110 1794152219
+!i10b 1
+!s100 bLYzl_8]eL76XgK<eJhIB3
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IgRT3]@M<HI8h5?8DmWmdX3
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z4 w1794069676
+8arithmetic_units.v
+Farithmetic_units.v
+!i122 0
+L0 1 15
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1794152219.000000
+!s107 arithmetic_units.v|arithmetic_units_tb.v|
+Z7 !s90 -reportprogress|300|arithmetic_units_tb.v|arithmetic_units.v|
+!i113 1
+Z8 tCvgOpt 0
+varithmetic_units_tb
+R1
+!i10b 1
+!s100 i`5YJ]E<0oKdAiWf8UT^o3
+R2
+ISaLeQIE6ERRV6mMH7co4L3
+R3
+R0
+R4
+8arithmetic_units_tb.v
+Farithmetic_units_tb.v
+!i122 0
+L0 2 21
+R5
+r1
+!s85 0
+31
+R6
+Z9 !s107 arithmetic_units.v|arithmetic_units_tb.v|
+R7
+!i113 1
+R8

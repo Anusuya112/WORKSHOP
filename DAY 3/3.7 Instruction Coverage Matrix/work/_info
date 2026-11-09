@@ -1,0 +1,55 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/ishwa/OneDrive/Documents/VERILOG RTL AND RISC-V PRACTICE ACTIVITIES/DAY 3/3.7 Instruction Coverage Matrix
+vinstruction_coverage
+Z1 !s110 1794152430
+!i10b 1
+!s100 7j45ColCDIj4lRD3iK_jN2
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I_z]@R?cBjIG@<<WUCfcU?2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z4 w1794069676
+8instruction_coverage.v
+Finstruction_coverage.v
+!i122 0
+L0 1 12
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1794152429.000000
+!s107 instruction_coverage.v|instruction_coverage_tb.v|
+Z7 !s90 -reportprogress|300|instruction_coverage_tb.v|instruction_coverage.v|
+!i113 1
+Z8 tCvgOpt 0
+vinstruction_coverage_tb
+R1
+!i10b 1
+!s100 BVh[Z>ECKDl]h?C<QXzRc0
+R2
+IUm<U6:bSH0UJS9ZLe_VBJ3
+R3
+R0
+R4
+8instruction_coverage_tb.v
+Finstruction_coverage_tb.v
+!i122 0
+L0 2 23
+R5
+r1
+!s85 0
+31
+R6
+Z9 !s107 instruction_coverage.v|instruction_coverage_tb.v|
+R7
+!i113 1
+R8
